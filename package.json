@@ -1,0 +1,24 @@
+{
+  "name": "practical-web-scrapping",
+  "version": "1.0.0",
+  "description": "* Activities to be performed\r - Last ball commentary\r - Printing -> Highest Wicket taker name from the winning team and no. of wickets taken by player\r - Print the birthday of all batsman in both the teams",
+  "main": "last-ball-commentary.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhisheksangwan/practical-web-scrapping.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhisheksangwan/practical-web-scrapping/issues"
+  },
+  "homepage": "https://github.com/abhisheksangwan/practical-web-scrapping#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "request": "^2.88.2"
+  }
+}
